@@ -1,0 +1,24 @@
+{
+  "name": "algorithmjs",
+  "version": "1.0.0",
+  "description": "describe data struture and algorithm by javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeyzhang1993/algorithmjs.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "algorithm"
+  ],
+  "author": "buji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeyzhang1993/algorithmjs/issues"
+  },
+  "homepage": "https://github.com/joeyzhang1993/algorithmjs#readme"
+}
