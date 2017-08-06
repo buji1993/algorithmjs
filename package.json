@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joeyzhang1993/algorithmjs.git"
+    "url": "git+https://github.com/buji193/algorithmjs.git"
   },
   "keywords": [
     "javascript",
@@ -18,7 +18,7 @@
   "author": "buji",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joeyzhang1993/algorithmjs/issues"
+    "url": "https://github.com/buji1993/algorithmjs/issues"
   },
-  "homepage": "https://github.com/joeyzhang1993/algorithmjs#readme"
+  "homepage": "https://github.com/buji1993/algorithmjs#readme"
 }
